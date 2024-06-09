@@ -2,7 +2,11 @@
 
 The Average Calculator is a simple tool designed to compute averages for various subjects or categories. Whether you're a student managing grades or an analyst working with data, this tool offers efficiency and accuracy in calculations.
 
-![Average Calculator](image_path.png)
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
+
+![Average Calculator](/assets/ss.png)
 
 <p align="center">
 <img src="/assets/line.gif">             
